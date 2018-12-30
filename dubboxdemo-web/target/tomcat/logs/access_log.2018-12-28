@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [28/Dec/2018:20:23:27 +0800] "GET /user/showName.do HTTP/1.1" 500 13333 http-bio-8082-exec-1 22709
+0:0:0:0:0:0:0:1 - - [28/Dec/2018:20:23:28 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8082-exec-3 13
+0:0:0:0:0:0:0:1 - - [28/Dec/2018:20:23:52 +0800] "GET /user/showName.do HTTP/1.1" 500 13333 http-bio-8082-exec-4 21268
+0:0:0:0:0:0:0:1 - - [28/Dec/2018:20:26:16 +0800] "GET /user/showName.do HTTP/1.1" 500 13171 http-bio-8082-exec-6 349
+0:0:0:0:0:0:0:1 - - [28/Dec/2018:20:26:41 +0800] "GET /user/showName.do HTTP/1.1" 500 13177 http-bio-8082-exec-1 1400
+0:0:0:0:0:0:0:1 - - [28/Dec/2018:20:27:49 +0800] "GET /user/showName.do HTTP/1.1" 200 8 http-bio-8082-exec-1 1514
+0:0:0:0:0:0:0:1 - - [28/Dec/2018:20:28:13 +0800] "GET /user/showName.do HTTP/1.1" 200 8 http-bio-8082-exec-3 11
